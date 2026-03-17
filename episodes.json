@@ -1,0 +1,13 @@
+[
+  {
+    "id": "episode1",
+    "title": "episode1",
+    "description": "episode1",
+    "audio_file": "episode1.mp3",
+    "pub_date": "Thu, 12 Mar 2026 08:34:04 GMT",
+    "duration": 0,
+    "episode": 1,
+    "season": 1,
+    "episode_type": "full"
+  }
+]

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>little jing&apos;s talk</title>
+    <link>https://genres-terry-choice-technique.trycloudflare.com</link>
+
+    <!-- ✅ 修复2：Atom self link，提升各类播客客户端兼容性 -->
+    <atom:link href="https://genres-terry-choice-technique.trycloudflare.com/feed.xml" rel="self" type="application/rss+xml" />
+
+    <language>zh-CN</language>
+    <description><![CDATA[AI podcast]]></description>
+    <copyright>© 2026 jingjing</copyright>
+    <generator>Custom Podcast RSS Generator</generator>
+    <managingEditor>wenq20220430@gmail.com (jingjing)</managingEditor>
+    <webMaster>wenq20220430@gmail.com (jingjing)</webMaster>
+
+    <image>
+      <url>https://genres-terry-choice-technique.trycloudflare.com/cover.jpg</url>
+      <title>little jing&apos;s talk</title>
+      <link>https://genres-terry-choice-technique.trycloudflare.com</link>
+    </image>
+
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>jingjing</itunes:author>
+    <itunes:summary><![CDATA[AI podcast]]></itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://genres-terry-choice-technique.trycloudflare.com/cover.jpg"/>
+    <itunes:keywords>AI,podcast,technology</itunes:keywords>
+
+    <itunes:owner>
+      <itunes:name>jingjing</itunes:name>
+      <itunes:email>wenq20220430@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:category text="Technology"/>
+
+    <item>
+      <title>episode1</title>
+      <link>https://genres-terry-choice-technique.trycloudflare.com/episode1.mp3</link>
+      <author>wenq20220430@gmail.com (jingjing)</author>
+      <description><![CDATA[episode1]]></description>
+      <content:encoded><![CDATA[episode1]]></content:encoded>
+      <itunes:summary><![CDATA[episode1]]></itunes:summary>
+      <itunes:author>jingjing</itunes:author>
+      <itunes:duration>00:00:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">episode1</guid>
+      <pubDate>Thu, 12 Mar 2026 08:34:04 GMT</pubDate>
+      <enclosure url="https://genres-terry-choice-technique.trycloudflare.com/episode1.mp3" length="811129" type="audio/mpeg" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
