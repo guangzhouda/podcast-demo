@@ -14,8 +14,8 @@
     <description><![CDATA[AI podcast]]></description>
     <copyright>© 2026 jingjing</copyright>
     <generator>Custom Podcast RSS Generator</generator>
-    <managingEditor>1472800781@qq.com (jingjing)</managingEditor>
-    <webMaster>1472800781@qq.com (jingjing)</webMaster>
+    <managingEditor>wenq20220430@gmail.com (jingjing)</managingEditor>
+    <webMaster>wenq20220430@gmail.com (jingjing)</webMaster>
 
     <image>
       <url>https://genres-terry-choice-technique.trycloudflare.com/cover.jpg</url>
@@ -32,7 +32,7 @@
 
     <itunes:owner>
       <itunes:name>jingjing</itunes:name>
-      <itunes:email>1472800781@qq.com</itunes:email>
+      <itunes:email>wenq20220430@gmail.com</itunes:email>
     </itunes:owner>
 
     <itunes:category text="Technology"/>
@@ -40,7 +40,7 @@
     <item>
       <title>episode1</title>
       <link>https://genres-terry-choice-technique.trycloudflare.com/episode1.mp3</link>
-      <author>1472800781@qq.com (jingjing)</author>
+      <author>wenq20220430@gmail.com (jingjing)</author>
       <description><![CDATA[episode1]]></description>
       <content:encoded><![CDATA[episode1]]></content:encoded>
       <itunes:summary><![CDATA[episode1]]></itunes:summary>
